@@ -2,7 +2,7 @@
 Solve one of the problem statements in under 2 hours.
 
 ## Grade: 20/20 - 100%   
-## Chosen problem statement: B   
+### Chosen problem statement: B   
 
 # Hackathon Problem Statements
 
